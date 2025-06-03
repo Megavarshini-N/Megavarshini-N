@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="![WhatsApp Image 2025-06-03 at 13 13 01_53660d7d](https://github.com/user-attachments/assets/c67c6ade-a05a-4148-81fb-892bdf6b4534)" alt="Banner" width="100%">
-</p>
+
 👋 Hey there! I'm Megavarshini N.
 
 🎓 Second year software systems student at *Sri Krishna Arts and Science College*, passionate about tech, communication, and creating social impact through innovation.  
