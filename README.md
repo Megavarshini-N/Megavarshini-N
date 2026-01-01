@@ -21,7 +21,8 @@ I'm a self-driven learner and enthusiastic creator with a deep interest in *AI, 
 ## 🏆 Achievements & Positions
 
 - 🥈 *Second Place* – HackVision Inter-departmental Hackathon  
-- 🏅 *Top 5 Selection* – TechExpo Ideathon  
+- 🏅 *Top 5 Selection* – TechExpo Ideathon
+- 💪 *Google Developers Group* - Manager and PMO head (2025-2026)
 - 🎤 *Secretary* – Speakers Forum Club (2024–2025)  
 - 🌱 *President* – Plant Presentation Club (2022–2024)
 
