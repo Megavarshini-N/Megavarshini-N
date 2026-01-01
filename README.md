@@ -20,7 +20,8 @@ I'm a self-driven learner and enthusiastic creator with a deep interest in *AI, 
 
 ## 🏆 Achievements & Positions
 
-- 🥈 *Second Place* – HackVision Inter-departmental Hackathon  
+- 🥈 *Second Place* – HackVision Inter-departmental Hackathon
+- 🎉 *Sustainability Hackathon* - Finalist at National Level Hackathon at SJU Bengaluru
 - 🏅 *Top 5 Selection* – TechExpo Ideathon
 - 💪 *Google Developers Group* - Manager and PMO head (2025-2026)
 - 🎤 *Secretary* – Speakers Forum Club (2024–2025)  
